@@ -206,115 +206,115 @@
     },
     "RideSpaceVertical4": {
       "value": "0.25rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceVertical8": {
       "value": "0.5rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceVertical12": {
       "value": "0.75rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceVertical16": {
       "value": "1rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceVertical20": {
       "value": "1.25rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceVertical24": {
       "value": "1.5rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceVertical32": {
       "value": "2rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceVertical40": {
       "value": "2.5rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceVertical48": {
       "value": "3rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceVertical56": {
       "value": "3.5rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceVertical64": {
       "value": "4rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceVertical80": {
       "value": "5rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceVertical96": {
       "value": "6rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceVertical112": {
       "value": "7rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceHorizontal4": {
       "value": "0.25rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceHorizontal8": {
       "value": "0.5rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceHorizontal12": {
       "value": "0.75rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceHorizontal16": {
       "value": "1rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceHorizontal20": {
       "value": "1.25rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceHorizontal24": {
       "value": "1.5rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceHorizontal32": {
       "value": "2rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceHorizontal40": {
       "value": "2.5rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceHorizontal48": {
       "value": "3rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceHorizontal56": {
       "value": "3.5rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceHorizontal64": {
       "value": "4rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceHorizontal80": {
       "value": "5rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceHorizontal96": {
       "value": "6rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideSpaceHorizontal112": {
       "value": "7rem",
-      "type": "space"
+      "type": "spacing"
     },
     "RideBorderRadius4": {
       "value": "0.25rem",
@@ -353,7 +353,7 @@
       "type": "borderWidth"
     },
     "RideBorderWidth3": {
-      "value": "3px",
+      "value": "3rem",
       "type": "borderWidth"
     },
     "RideShadowSmall": {
@@ -387,7 +387,7 @@
         "blur": "28px",
         "spread": "0px",
         "color": "rgba(13, 25, 133, 0.16)",
-        "type": "innerShadow"
+        "type": "dropShadow"
       },
       "type": "boxShadow",
       "description": "Searchbar, tooltips."
@@ -494,23 +494,23 @@
     },
     "RideGridSmall": {
       "value": "384px",
-      "type": "grid"
+      "type": "sizing"
     },
     "RideGridMedium": {
       "value": "796px",
-      "type": "grid"
+      "type": "sizing"
     },
     "RideGridLarge": {
       "value": "1360px",
-      "type": "grid"
+      "type": "sizing"
     },
     "RideGridAndroid": {
       "value": "360px",
-      "type": "grid"
+      "type": "sizing"
     },
     "RideGridIos": {
       "value": "384px",
-      "type": "grid"
+      "type": "sizing"
     }
   },
   "$themes": [],

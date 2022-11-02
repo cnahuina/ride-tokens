@@ -198,115 +198,115 @@
     },
     "RideSpaceVertical4": {
       "value": "0.25rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceVertical8": {
       "value": "0.5rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceVertical12": {
       "value": "0.75rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceVertical16": {
       "value": "1rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceVertical20": {
       "value": "1.25rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceVertical24": {
       "value": "1.5rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceVertical32": {
       "value": "2rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceVertical40": {
       "value": "2.5rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceVertical48": {
       "value": "3rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceVertical56": {
       "value": "3.5rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceVertical64": {
       "value": "4rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceVertical80": {
       "value": "5rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceVertical96": {
       "value": "6rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceVertical112": {
       "value": "7rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceHorizontal4": {
       "value": "0.25rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceHorizontal8": {
       "value": "0.5rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceHorizontal12": {
       "value": "0.75rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceHorizontal16": {
       "value": "1rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceHorizontal20": {
       "value": "1.25rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceHorizontal24": {
       "value": "1.5rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceHorizontal32": {
       "value": "2rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceHorizontal40": {
       "value": "2.5rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceHorizontal48": {
       "value": "3rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceHorizontal56": {
       "value": "3.5rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceHorizontal64": {
       "value": "4rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceHorizontal80": {
       "value": "5rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceHorizontal96": {
       "value": "6rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideSpaceHorizontal112": {
       "value": "7rem",
-      "type": "sizing"
+      "type": "space"
     },
     "RideBorderRadius4": {
       "value": "0.25rem",

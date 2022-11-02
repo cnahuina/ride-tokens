@@ -1,13 +1,5 @@
 {
   "GlobalTokens": {
-    "RideFontFamily01": {
-      "value": "BR Sonoma",
-      "type": "fontFamilies"
-    },
-    "RideFontFamily02": {
-      "value": "Rimac",
-      "type": "fontFamilies"
-    },
     "RideFontStyleNormal": {
       "value": "normal",
       "type": "fontStyle"
@@ -41,84 +33,104 @@
       "type": "fontWeights"
     },
     "RideLineHeightSmall": {
-      "value": "0.625rem",
-      "type": "lineHeights"
+      "value": "10px",
+      "type": "lineHeights",
+      "description": "0.625rem"
     },
     "RideLineHeightMedium": {
-      "value": "0.75rem",
-      "type": "lineHeights"
+      "value": "12px",
+      "type": "lineHeights",
+      "description": "0.75rem"
     },
     "RideLineHeightLarge": {
-      "value": "1rem",
-      "type": "lineHeights"
+      "value": "16px",
+      "type": "lineHeights",
+      "description": "1rem"
     },
     "RideLineHeightXLarge": {
-      "value": "1.25rem",
-      "type": "lineHeights"
+      "value": "20px",
+      "type": "lineHeights",
+      "description": "1.25rem"
     },
     "RideLineHeight2XLarge": {
-      "value": "1.5rem",
-      "type": "lineHeights"
+      "value": "24px",
+      "type": "lineHeights",
+      "description": "1.5rem"
     },
     "RideLineHeight3XLarge": {
-      "value": "2rem",
-      "type": "lineHeights"
+      "value": "32px",
+      "type": "lineHeights",
+      "description": "2rem"
     },
     "RideLineHeight4XLarge": {
-      "value": "2.5rem",
-      "type": "lineHeights"
+      "value": "40px",
+      "type": "lineHeights",
+      "description": "2.5rem"
     },
     "RideLineHeight5XLarge": {
-      "value": "2.75rem",
-      "type": "lineHeights"
+      "value": "44px",
+      "type": "lineHeights",
+      "description": "2.75rem"
     },
     "RideLineHeight6XLarge": {
-      "value": "3rem",
-      "type": "lineHeights"
+      "value": "48px",
+      "type": "lineHeights",
+      "description": "3rem"
     },
     "RideLineHeight7XLarge": {
-      "value": "3.5rem",
-      "type": "lineHeights"
+      "value": "56px",
+      "type": "lineHeights",
+      "description": "3.5rem"
     },
     "RideLineHeight8XLarge": {
-      "value": "4rem",
-      "type": "lineHeights"
+      "value": "64px",
+      "type": "lineHeights",
+      "description": "4rem"
     },
     "RideLineHeight9XLarge": {
-      "value": "4.5rem",
-      "type": "lineHeights"
+      "value": "72px",
+      "type": "lineHeights",
+      "description": "4.5rem"
     },
     "RideLineHeight10XLarge": {
-      "value": "6rem",
-      "type": "lineHeights"
+      "value": "96px",
+      "type": "lineHeights",
+      "description": "6rem"
     },
     "RideLineHeight11XLarge": {
-      "value": "8rem",
-      "type": "lineHeights"
+      "value": "128px",
+      "type": "lineHeights",
+      "description": "8rem"
     },
     "RideLetterSpacingSmall": {
-      "value": "0.063rem",
-      "type": "letterSpacing"
+      "value": "1px",
+      "type": "letterSpacing",
+      "description": "0.063rem"
     },
     "RideLetterSpacingMedium": {
-      "value": "0.025rem",
-      "type": "letterSpacing"
+      "value": "0.4px",
+      "type": "letterSpacing",
+      "description": "0.025rem"
     },
     "RideLetterSpacingLarge": {
-      "value": "0.013rem",
-      "type": "letterSpacing"
+      "value": "0.2px",
+      "type": "letterSpacing",
+      "description": "0.013rem"
     },
     "RideLetterSpacingXLarge": {
-      "value": "0.006rem",
-      "type": "letterSpacing"
+      "value": "0.1px",
+      "type": "letterSpacing",
+      "description": "0.006rem"
     },
     "RideLetterSpacing2XLarge": {
-      "value": "0rem",
-      "type": "letterSpacing"
+      "value": "0px",
+      "type": "letterSpacing",
+      "description": "0rem"
     },
     "RideLetterSpacing3XLarge": {
-      "value": "-0.063rem",
-      "type": "letterSpacing"
+      "value": "-1px",
+      "type": "letterSpacing",
+      "description": "-0.063rem"
     },
     "RideFontSize8": {
       "value": "0.5rem",
@@ -187,14 +199,6 @@
     "RideFontSize112": {
       "value": "7rem",
       "type": "fontSizes"
-    },
-    "RideTextTransformNone": {
-      "value": "none",
-      "type": "textTransform"
-    },
-    "RideTextTransformUppercase": {
-      "value": "uppercase",
-      "type": "textTransform"
     },
     "RideTextDecorationNone": {
       "value": "none",
@@ -511,6 +515,26 @@
     "RideGridIos": {
       "value": "384px",
       "type": "sizing"
+    },
+    "RideTextTransformUppercase": {
+      "value": "uppercase",
+      "type": "textCase"
+    },
+    "RideTextTransformNone": {
+      "value": "none",
+      "type": "textCase"
+    },
+    "RideFontFamily01": {
+      "value": {
+        "fontFamily": "BR Sonoma"
+      },
+      "type": "typography"
+    },
+    "RideFontFamily02": {
+      "value": {
+        "fontFamily": "Rimac"
+      },
+      "type": "typography"
     }
   },
   "$themes": [],

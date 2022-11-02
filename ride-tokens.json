@@ -357,7 +357,7 @@
       "type": "borderWidth"
     },
     "RideBorderWidth3": {
-      "value": "3rem",
+      "value": "3px",
       "type": "borderWidth"
     },
     "RideShadowSmall": {

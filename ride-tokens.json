@@ -182,11 +182,11 @@
     },
     "RideTextTransformNone": {
       "value": "none",
-      "type": "textCase"
+      "type": "textTransform"
     },
     "RideTextTransformUppercase": {
       "value": "uppercase",
-      "type": "textCase"
+      "type": "textTransform"
     },
     "RideTextDecorationNone": {
       "value": "none",

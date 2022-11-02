@@ -1,506 +1,514 @@
 {
-  "RideFontFamily01": {
-    "value": "BR Sonoma",
-    "type": "fontFamilies"
-  },
-  "RideFontFamily02": {
-    "value": "Rimac",
-    "type": "fontFamilies"
-  },
-  "RideFontWeightLight": {
-    "value": "300",
-    "type": "fontWeights"
-  },
-  "RideFontWeightRegular": {
-    "value": "400",
-    "type": "fontWeights"
-  },
-  "RideFontWeightMedium": {
-    "value": "500",
-    "type": "fontWeights"
-  },
-  "RideFontWeightSemiBold": {
-    "value": "600",
-    "type": "fontWeights"
-  },
-  "RideFontWeightBold": {
-    "value": "700",
-    "type": "fontWeights"
-  },
-  "RideFontWeightDisplay": {
-    "value": "display",
-    "type": "fontWeights"
-  },
-  "RideLineHeightSmall": {
-    "value": "0.625rem",
-    "type": "lineHeights"
-  },
-  "RideLineHeightMedium": {
-    "value": "0.75rem",
-    "type": "lineHeights"
-  },
-  "RideLineHeightLarge": {
-    "value": "1rem",
-    "type": "lineHeights"
-  },
-  "RideLineHeightXLarge": {
-    "value": "1.25rem",
-    "type": "lineHeights"
-  },
-  "RideLineHeight2XLarge": {
-    "value": "1.5rem",
-    "type": "lineHeights"
-  },
-  "RideLineHeight3XLarge": {
-    "value": "2rem",
-    "type": "lineHeights"
-  },
-  "RideLineHeight4XLarge": {
-    "value": "2.5rem",
-    "type": "lineHeights"
-  },
-  "RideLineHeight5XLarge": {
-    "value": "2.75rem",
-    "type": "lineHeights"
-  },
-  "RideLineHeight6XLarge": {
-    "value": "3rem",
-    "type": "lineHeights"
-  },
-  "RideLineHeight7XLarge": {
-    "value": "3.5rem",
-    "type": "lineHeights"
-  },
-  "RideLineHeight8XLarge": {
-    "value": "4rem",
-    "type": "lineHeights"
-  },
-  "RideLineHeight9XLarge": {
-    "value": "4.5rem",
-    "type": "lineHeights"
-  },
-  "RideLineHeight10XLarge": {
-    "value": "6rem",
-    "type": "lineHeights"
-  },
-  "RideLineHeight11XLarge": {
-    "value": "8rem",
-    "type": "lineHeights"
-  },
-  "RideLetterSpacingSmall": {
-    "value": "0.063rem",
-    "type": "letterSpacing"
-  },
-  "RideLetterSpacingMedium": {
-    "value": "0.025rem",
-    "type": "letterSpacing"
-  },
-  "RideLetterSpacingLarge": {
-    "value": "0.013rem",
-    "type": "letterSpacing"
-  },
-  "RideLetterSpacingXLarge": {
-    "value": "0.006rem",
-    "type": "letterSpacing"
-  },
-  "RideLetterSpacing2XLarge": {
-    "value": "0rem",
-    "type": "letterSpacing"
-  },
-  "RideLetterSpacing3XLarge": {
-    "value": "-0.063rem",
-    "type": "letterSpacing"
-  },
-  "RideFontSize8": {
-    "value": "0.5rem",
-    "type": "fontSizes"
-  },
-  "RideFontSize10": {
-    "value": "0.625rem",
-    "type": "fontSizes"
-  },
-  "RideFontSize12": {
-    "value": "0.75rem",
-    "type": "fontSizes"
-  },
-  "RideFontSize14": {
-    "value": "0.875rem",
-    "type": "fontSizes"
-  },
-  "RideFontSize16": {
-    "value": "1rem",
-    "type": "fontSizes"
-  },
-  "RideFontSize18": {
-    "value": "1.125rem",
-    "type": "fontSizes"
-  },
-  "RideFontSize20": {
-    "value": "1.25rem",
-    "type": "fontSizes"
-  },
-  "RideFontSize24": {
-    "value": "1.5rem",
-    "type": "fontSizes"
-  },
-  "RideFontSize28": {
-    "value": "1.75rem",
-    "type": "fontSizes"
-  },
-  "RideFontSize32": {
-    "value": "2rem",
-    "type": "fontSizes"
-  },
-  "RideFontSize36": {
-    "value": "2.25rem",
-    "type": "fontSizes"
-  },
-  "RideFontSize40": {
-    "value": "2.5rem",
-    "type": "fontSizes"
-  },
-  "RideFontSize48": {
-    "value": "3rem",
-    "type": "fontSizes"
-  },
-  "RideFontSize56": {
-    "value": "3.5rem",
-    "type": "fontSizes"
-  },
-  "RideFontSize64": {
-    "value": "4rem",
-    "type": "fontSizes"
-  },
-  "RideFontSize80": {
-    "value": "5rem",
-    "type": "fontSizes"
-  },
-  "RideFontSize112": {
-    "value": "7rem",
-    "type": "fontSizes"
-  },
-  "RideTextTransformNone": {
-    "value": "none",
-    "type": "textCase"
-  },
-  "RideTextTransformUppercase": {
-    "value": "uppercase",
-    "type": "textCase"
-  },
-  "RideTextDecorationNone": {
-    "value": "none",
-    "type": "textDecoration"
-  },
-  "RideTextDecorationUnderline": {
-    "value": "underline",
-    "type": "textDecoration"
-  },
-  "RideSpaceVertical4": {
-    "value": "0.25rem",
-    "type": "sizing"
-  },
-  "RideSpaceVertical8": {
-    "value": "0.5rem",
-    "type": "sizing"
-  },
-  "RideSpaceVertical12": {
-    "value": "0.75rem",
-    "type": "sizing"
-  },
-  "RideSpaceVertical16": {
-    "value": "1rem",
-    "type": "sizing"
-  },
-  "RideSpaceVertical20": {
-    "value": "1.25rem",
-    "type": "sizing"
-  },
-  "RideSpaceVertical24": {
-    "value": "1.5rem",
-    "type": "sizing"
-  },
-  "RideSpaceVertical32": {
-    "value": "2rem",
-    "type": "sizing"
-  },
-  "RideSpaceVertical40": {
-    "value": "2.5rem",
-    "type": "sizing"
-  },
-  "RideSpaceVertical48": {
-    "value": "3rem",
-    "type": "sizing"
-  },
-  "RideSpaceVertical56": {
-    "value": "3.5rem",
-    "type": "sizing"
-  },
-  "RideSpaceVertical64": {
-    "value": "4rem",
-    "type": "sizing"
-  },
-  "RideSpaceVertical80": {
-    "value": "5rem",
-    "type": "sizing"
-  },
-  "RideSpaceVertical96": {
-    "value": "6rem",
-    "type": "sizing"
-  },
-  "RideSpaceVertical112": {
-    "value": "7rem",
-    "type": "sizing"
-  },
-  "RideSpaceHorizontal4": {
-    "value": "0.25rem",
-    "type": "sizing"
-  },
-  "RideSpaceHorizontal8": {
-    "value": "0.5rem",
-    "type": "sizing"
-  },
-  "RideSpaceHorizontal12": {
-    "value": "0.75rem",
-    "type": "sizing"
-  },
-  "RideSpaceHorizontal16": {
-    "value": "1rem",
-    "type": "sizing"
-  },
-  "RideSpaceHorizontal20": {
-    "value": "1.25rem",
-    "type": "sizing"
-  },
-  "RideSpaceHorizontal24": {
-    "value": "1.5rem",
-    "type": "sizing"
-  },
-  "RideSpaceHorizontal32": {
-    "value": "2rem",
-    "type": "sizing"
-  },
-  "RideSpaceHorizontal40": {
-    "value": "2.5rem",
-    "type": "sizing"
-  },
-  "RideSpaceHorizontal48": {
-    "value": "3rem",
-    "type": "sizing"
-  },
-  "RideSpaceHorizontal56": {
-    "value": "3.5rem",
-    "type": "sizing"
-  },
-  "RideSpaceHorizontal64": {
-    "value": "4rem",
-    "type": "sizing"
-  },
-  "RideSpaceHorizontal80": {
-    "value": "5rem",
-    "type": "sizing"
-  },
-  "RideSpaceHorizontal96": {
-    "value": "6rem",
-    "type": "sizing"
-  },
-  "RideSpaceHorizontal112": {
-    "value": "7rem",
-    "type": "sizing"
-  },
-  "RideBorderRadius4": {
-    "value": "0.25rem",
-    "type": "borderRadius"
-  },
-  "RideBorderRadius8": {
-    "value": "0.75rem",
-    "type": "borderRadius"
-  },
-  "RideBorderRadius16": {
-    "value": "1rem",
-    "type": "borderRadius"
-  },
-  "RideBorderRadius24": {
-    "value": "1.5rem",
-    "type": "borderRadius"
-  },
-  "RideBorderRadius40": {
-    "value": "2.5rem",
-    "type": "borderRadius"
-  },
-  "RideBorderRadiusPill": {
-    "value": "7.5rem",
-    "type": "borderRadius"
-  },
-  "RideBorderCircle": {
-    "value": "50%",
-    "type": "borderRadius"
-  },
-  "RideBorderWidth1": {
-    "value": "1px",
-    "type": "borderWidth"
-  },
-  "RideBorderWidth2": {
-    "value": "2px",
-    "type": "borderWidth"
-  },
-  "RideBorderWidth3": {
-    "value": "3px",
-    "type": "borderWidth"
-  },
-  "RideShadowSmall": {
-    "value": {
-      "x": "0px",
-      "y": "1px",
-      "blur": "8px",
-      "spread": "0px",
-      "color": "rgba(13, 25, 133, 0.08)",
-      "type": "dropShadow"
+  "GlobalTokens": {
+    "RideFontFamily01": {
+      "value": "BR Sonoma",
+      "type": "fontFamilies"
     },
-    "type": "boxShadow",
-    "description": "Searchbar, tooltips."
-  },
-  "RideShadowMedium": {
-    "value": {
-      "x": "0px",
-      "y": "2px",
-      "blur": "20px",
-      "spread": "0px",
-      "color": "rgba(13, 25, 133, 0.12)",
-      "type": "dropShadow"
+    "RideFontFamily02": {
+      "value": "Rimac",
+      "type": "fontFamilies"
     },
-    "type": "boxShadow",
-    "description": "bar, menús top."
-  },
-  "RideShadowLarge": {
-    "value": {
-      "x": "0px",
-      "y": "8px",
-      "blur": "28px",
-      "spread": "0px",
-      "color": "rgba(13, 25, 133, 0.16)",
-      "type": "innerShadow"
+    "RideFontWeightLight": {
+      "value": "300",
+      "type": "fontWeights"
     },
-    "type": "boxShadow",
-    "description": "Searchbar, tooltips."
-  },
-  "RideShadowXLarge": {
-    "value": {
-      "x": "0px",
-      "y": "12px",
-      "blur": "56px",
-      "spread": "0px",
-      "color": "rgba(13, 25, 133, 0.2)",
-      "type": "dropShadow"
+    "RideFontWeightRegular": {
+      "value": "400",
+      "type": "fontWeights"
     },
-    "type": "boxShadow",
-    "description": "Cards sobre fondo con bastante contenido."
+    "RideFontWeightMedium": {
+      "value": "500",
+      "type": "fontWeights"
+    },
+    "RideFontWeightSemiBold": {
+      "value": "600",
+      "type": "fontWeights"
+    },
+    "RideFontWeightBold": {
+      "value": "700",
+      "type": "fontWeights"
+    },
+    "RideFontWeightDisplay": {
+      "value": "display",
+      "type": "fontWeights"
+    },
+    "RideLineHeightSmall": {
+      "value": "0.625rem",
+      "type": "lineHeights"
+    },
+    "RideLineHeightMedium": {
+      "value": "0.75rem",
+      "type": "lineHeights"
+    },
+    "RideLineHeightLarge": {
+      "value": "1rem",
+      "type": "lineHeights"
+    },
+    "RideLineHeightXLarge": {
+      "value": "1.25rem",
+      "type": "lineHeights"
+    },
+    "RideLineHeight2XLarge": {
+      "value": "1.5rem",
+      "type": "lineHeights"
+    },
+    "RideLineHeight3XLarge": {
+      "value": "2rem",
+      "type": "lineHeights"
+    },
+    "RideLineHeight4XLarge": {
+      "value": "2.5rem",
+      "type": "lineHeights"
+    },
+    "RideLineHeight5XLarge": {
+      "value": "2.75rem",
+      "type": "lineHeights"
+    },
+    "RideLineHeight6XLarge": {
+      "value": "3rem",
+      "type": "lineHeights"
+    },
+    "RideLineHeight7XLarge": {
+      "value": "3.5rem",
+      "type": "lineHeights"
+    },
+    "RideLineHeight8XLarge": {
+      "value": "4rem",
+      "type": "lineHeights"
+    },
+    "RideLineHeight9XLarge": {
+      "value": "4.5rem",
+      "type": "lineHeights"
+    },
+    "RideLineHeight10XLarge": {
+      "value": "6rem",
+      "type": "lineHeights"
+    },
+    "RideLineHeight11XLarge": {
+      "value": "8rem",
+      "type": "lineHeights"
+    },
+    "RideLetterSpacingSmall": {
+      "value": "0.063rem",
+      "type": "letterSpacing"
+    },
+    "RideLetterSpacingMedium": {
+      "value": "0.025rem",
+      "type": "letterSpacing"
+    },
+    "RideLetterSpacingLarge": {
+      "value": "0.013rem",
+      "type": "letterSpacing"
+    },
+    "RideLetterSpacingXLarge": {
+      "value": "0.006rem",
+      "type": "letterSpacing"
+    },
+    "RideLetterSpacing2XLarge": {
+      "value": "0rem",
+      "type": "letterSpacing"
+    },
+    "RideLetterSpacing3XLarge": {
+      "value": "-0.063rem",
+      "type": "letterSpacing"
+    },
+    "RideFontSize8": {
+      "value": "0.5rem",
+      "type": "fontSizes"
+    },
+    "RideFontSize10": {
+      "value": "0.625rem",
+      "type": "fontSizes"
+    },
+    "RideFontSize12": {
+      "value": "0.75rem",
+      "type": "fontSizes"
+    },
+    "RideFontSize14": {
+      "value": "0.875rem",
+      "type": "fontSizes"
+    },
+    "RideFontSize16": {
+      "value": "1rem",
+      "type": "fontSizes"
+    },
+    "RideFontSize18": {
+      "value": "1.125rem",
+      "type": "fontSizes"
+    },
+    "RideFontSize20": {
+      "value": "1.25rem",
+      "type": "fontSizes"
+    },
+    "RideFontSize24": {
+      "value": "1.5rem",
+      "type": "fontSizes"
+    },
+    "RideFontSize28": {
+      "value": "1.75rem",
+      "type": "fontSizes"
+    },
+    "RideFontSize32": {
+      "value": "2rem",
+      "type": "fontSizes"
+    },
+    "RideFontSize36": {
+      "value": "2.25rem",
+      "type": "fontSizes"
+    },
+    "RideFontSize40": {
+      "value": "2.5rem",
+      "type": "fontSizes"
+    },
+    "RideFontSize48": {
+      "value": "3rem",
+      "type": "fontSizes"
+    },
+    "RideFontSize56": {
+      "value": "3.5rem",
+      "type": "fontSizes"
+    },
+    "RideFontSize64": {
+      "value": "4rem",
+      "type": "fontSizes"
+    },
+    "RideFontSize80": {
+      "value": "5rem",
+      "type": "fontSizes"
+    },
+    "RideFontSize112": {
+      "value": "7rem",
+      "type": "fontSizes"
+    },
+    "RideTextTransformNone": {
+      "value": "none",
+      "type": "textCase"
+    },
+    "RideTextTransformUppercase": {
+      "value": "uppercase",
+      "type": "textCase"
+    },
+    "RideTextDecorationNone": {
+      "value": "none",
+      "type": "textDecoration"
+    },
+    "RideTextDecorationUnderline": {
+      "value": "underline",
+      "type": "textDecoration"
+    },
+    "RideSpaceVertical4": {
+      "value": "0.25rem",
+      "type": "sizing"
+    },
+    "RideSpaceVertical8": {
+      "value": "0.5rem",
+      "type": "sizing"
+    },
+    "RideSpaceVertical12": {
+      "value": "0.75rem",
+      "type": "sizing"
+    },
+    "RideSpaceVertical16": {
+      "value": "1rem",
+      "type": "sizing"
+    },
+    "RideSpaceVertical20": {
+      "value": "1.25rem",
+      "type": "sizing"
+    },
+    "RideSpaceVertical24": {
+      "value": "1.5rem",
+      "type": "sizing"
+    },
+    "RideSpaceVertical32": {
+      "value": "2rem",
+      "type": "sizing"
+    },
+    "RideSpaceVertical40": {
+      "value": "2.5rem",
+      "type": "sizing"
+    },
+    "RideSpaceVertical48": {
+      "value": "3rem",
+      "type": "sizing"
+    },
+    "RideSpaceVertical56": {
+      "value": "3.5rem",
+      "type": "sizing"
+    },
+    "RideSpaceVertical64": {
+      "value": "4rem",
+      "type": "sizing"
+    },
+    "RideSpaceVertical80": {
+      "value": "5rem",
+      "type": "sizing"
+    },
+    "RideSpaceVertical96": {
+      "value": "6rem",
+      "type": "sizing"
+    },
+    "RideSpaceVertical112": {
+      "value": "7rem",
+      "type": "sizing"
+    },
+    "RideSpaceHorizontal4": {
+      "value": "0.25rem",
+      "type": "sizing"
+    },
+    "RideSpaceHorizontal8": {
+      "value": "0.5rem",
+      "type": "sizing"
+    },
+    "RideSpaceHorizontal12": {
+      "value": "0.75rem",
+      "type": "sizing"
+    },
+    "RideSpaceHorizontal16": {
+      "value": "1rem",
+      "type": "sizing"
+    },
+    "RideSpaceHorizontal20": {
+      "value": "1.25rem",
+      "type": "sizing"
+    },
+    "RideSpaceHorizontal24": {
+      "value": "1.5rem",
+      "type": "sizing"
+    },
+    "RideSpaceHorizontal32": {
+      "value": "2rem",
+      "type": "sizing"
+    },
+    "RideSpaceHorizontal40": {
+      "value": "2.5rem",
+      "type": "sizing"
+    },
+    "RideSpaceHorizontal48": {
+      "value": "3rem",
+      "type": "sizing"
+    },
+    "RideSpaceHorizontal56": {
+      "value": "3.5rem",
+      "type": "sizing"
+    },
+    "RideSpaceHorizontal64": {
+      "value": "4rem",
+      "type": "sizing"
+    },
+    "RideSpaceHorizontal80": {
+      "value": "5rem",
+      "type": "sizing"
+    },
+    "RideSpaceHorizontal96": {
+      "value": "6rem",
+      "type": "sizing"
+    },
+    "RideSpaceHorizontal112": {
+      "value": "7rem",
+      "type": "sizing"
+    },
+    "RideBorderRadius4": {
+      "value": "0.25rem",
+      "type": "borderRadius"
+    },
+    "RideBorderRadius8": {
+      "value": "0.75rem",
+      "type": "borderRadius"
+    },
+    "RideBorderRadius16": {
+      "value": "1rem",
+      "type": "borderRadius"
+    },
+    "RideBorderRadius24": {
+      "value": "1.5rem",
+      "type": "borderRadius"
+    },
+    "RideBorderRadius40": {
+      "value": "2.5rem",
+      "type": "borderRadius"
+    },
+    "RideBorderRadiusPill": {
+      "value": "7.5rem",
+      "type": "borderRadius"
+    },
+    "RideBorderCircle": {
+      "value": "50%",
+      "type": "borderRadius"
+    },
+    "RideBorderWidth1": {
+      "value": "1px",
+      "type": "borderWidth"
+    },
+    "RideBorderWidth2": {
+      "value": "2px",
+      "type": "borderWidth"
+    },
+    "RideBorderWidth3": {
+      "value": "3px",
+      "type": "borderWidth"
+    },
+    "RideShadowSmall": {
+      "value": {
+        "x": "0px",
+        "y": "1px",
+        "blur": "8px",
+        "spread": "0px",
+        "color": "rgba(13, 25, 133, 0.08)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "Searchbar, tooltips."
+    },
+    "RideShadowMedium": {
+      "value": {
+        "x": "0px",
+        "y": "2px",
+        "blur": "20px",
+        "spread": "0px",
+        "color": "rgba(13, 25, 133, 0.12)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "bar, menús top."
+    },
+    "RideShadowLarge": {
+      "value": {
+        "x": "0px",
+        "y": "8px",
+        "blur": "28px",
+        "spread": "0px",
+        "color": "rgba(13, 25, 133, 0.16)",
+        "type": "innerShadow"
+      },
+      "type": "boxShadow",
+      "description": "Searchbar, tooltips."
+    },
+    "RideShadowXLarge": {
+      "value": {
+        "x": "0px",
+        "y": "12px",
+        "blur": "56px",
+        "spread": "0px",
+        "color": "rgba(13, 25, 133, 0.2)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "Cards sobre fondo con bastante contenido."
+    },
+    "RideOpacity10": {
+      "value": "0.1",
+      "type": "opacity"
+    },
+    "RideOpacity20": {
+      "value": "0.2",
+      "type": "opacity"
+    },
+    "RideOpacity40": {
+      "value": "0.4",
+      "type": "opacity"
+    },
+    "RideOpacity60": {
+      "value": "0.6",
+      "type": "opacity"
+    },
+    "RideOpacity84": {
+      "value": "0.84",
+      "type": "opacity"
+    },
+    "RideBlur4": {
+      "value": "blur(2px)",
+      "type": "blur"
+    },
+    "RideBlur10": {
+      "value": "blur(5px)",
+      "type": "blur"
+    },
+    "RideBlur16": {
+      "value": "blur(8px)",
+      "type": "blur"
+    },
+    "RideBlur160": {
+      "value": "blur(80px)",
+      "type": "blur"
+    },
+    "RideBlur240": {
+      "value": "blur(120px)",
+      "type": "blur"
+    },
+    "RideGlyphSmall": {
+      "value": "12px",
+      "type": "graphic"
+    },
+    "RideGlyphMedium": {
+      "value": "16px",
+      "type": "graphic"
+    },
+    "RideGlyphLarge": {
+      "value": "20px",
+      "type": "graphic"
+    },
+    "RideGlyphXLarge": {
+      "value": "24px",
+      "type": "graphic"
+    },
+    "RideGlyph2XLarge": {
+      "value": "32px",
+      "type": "graphic"
+    },
+    "RideIconSmall": {
+      "value": "48px",
+      "type": "graphic"
+    },
+    "RideIconMedium": {
+      "value": "56px",
+      "type": "graphic"
+    },
+    "RideIconLarge": {
+      "value": "64px",
+      "type": "graphic"
+    },
+    "RideFullIconSmall": {
+      "value": "72px",
+      "type": "graphic"
+    },
+    "RideFullIconMedium": {
+      "value": "80px",
+      "type": "graphic"
+    },
+    "RideFullIconLarge": {
+      "value": "88px",
+      "type": "graphic"
+    },
+    "RideFullIconXLarge": {
+      "value": "96px",
+      "type": "graphic"
+    },
+    "RideGridSmall": {
+      "value": "384px",
+      "type": "grid"
+    },
+    "RideGridMedium": {
+      "value": "796px",
+      "type": "grid"
+    },
+    "RideGridLarge": {
+      "value": "1360px",
+      "type": "grid"
+    },
+    "RideGridAndroid": {
+      "value": "360px",
+      "type": "grid"
+    },
+    "RideGridIos": {
+      "value": "384px",
+      "type": "grid"
+    }
   },
-  "RideOpacity10": {
-    "value": "0.1",
-    "type": "opacity"
-  },
-  "RideOpacity20": {
-    "value": "0.2",
-    "type": "opacity"
-  },
-  "RideOpacity40": {
-    "value": "0.4",
-    "type": "opacity"
-  },
-  "RideOpacity60": {
-    "value": "0.6",
-    "type": "opacity"
-  },
-  "RideOpacity84": {
-    "value": "0.84",
-    "type": "opacity"
-  },
-  "RideBlur4": {
-    "value": "blur(2px)",
-    "type": "blur"
-  },
-  "RideBlur10": {
-    "value": "blur(5px)",
-    "type": "blur"
-  },
-  "RideBlur16": {
-    "value": "blur(8px)",
-    "type": "blur"
-  },
-  "RideBlur160": {
-    "value": "blur(80px)",
-    "type": "blur"
-  },
-  "RideBlur240": {
-    "value": "blur(120px)",
-    "type": "blur"
-  },
-  "RideGlyphSmall": {
-    "value": "12px",
-    "type": "graphic"
-  },
-  "RideGlyphMedium": {
-    "value": "16px",
-    "type": "graphic"
-  },
-  "RideGlyphLarge": {
-    "value": "20px",
-    "type": "graphic"
-  },
-  "RideGlyphXLarge": {
-    "value": "24px",
-    "type": "graphic"
-  },
-  "RideGlyph2XLarge": {
-    "value": "32px",
-    "type": "graphic"
-  },
-  "RideIconSmall": {
-    "value": "48px",
-    "type": "graphic"
-  },
-  "RideIconMedium": {
-    "value": "56px",
-    "type": "graphic"
-  },
-  "RideIconLarge": {
-    "value": "64px",
-    "type": "graphic"
-  },
-  "RideFullIconSmall": {
-    "value": "72px",
-    "type": "graphic"
-  },
-  "RideFullIconMedium": {
-    "value": "80px",
-    "type": "graphic"
-  },
-  "RideFullIconLarge": {
-    "value": "88px",
-    "type": "graphic"
-  },
-  "RideFullIconXLarge": {
-    "value": "96px",
-    "type": "graphic"
-  },
-  "RideGridSmall": {
-    "value": "384px",
-    "type": "grid"
-  },
-  "RideGridMedium": {
-    "value": "796px",
-    "type": "grid"
-  },
-  "RideGridLarge": {
-    "value": "1360px",
-    "type": "grid"
-  },
-  "RideGridAndroid": {
-    "value": "360px",
-    "type": "grid"
-  },
-  "RideGridIos": {
-    "value": "384px",
-    "type": "grid"
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "GlobalTokens"
+    ]
   }
 }

@@ -505,18 +505,10 @@
       "type": "grid"
     }
   },
-  "prueba": {
-    "aa": {
-      "value": "12px",
-      "type": "sizing",
-      "description": "asas"
-    }
-  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "GlobalTokens",
-      "prueba"
+      "GlobalTokens"
     ]
   }
 }

@@ -8,6 +8,14 @@
       "value": "Rimac",
       "type": "fontFamilies"
     },
+    "RideFontStyleNormal": {
+      "value": "normal",
+      "type": "fontStyle"
+    },
+    "RideFontStyleItalic": {
+      "value": "italic",
+      "type": "fontStyle"
+    },
     "RideFontWeightLight": {
       "value": "300",
       "type": "fontWeights"

@@ -25,104 +25,104 @@
       "type": "fontWeights"
     },
     "RideLineHeightSmall": {
-      "value": "10px",
+      "value": "0.625rem",
       "type": "lineHeights",
-      "description": "0.625rem"
+      "description": "10px"
     },
     "RideLineHeightMedium": {
-      "value": "12px",
+      "value": "0.75rem",
       "type": "lineHeights",
-      "description": "0.75rem"
+      "description": "12px"
     },
     "RideLineHeightLarge": {
-      "value": "16px",
+      "value": "1rem",
       "type": "lineHeights",
-      "description": "1rem"
+      "description": "16px"
     },
     "RideLineHeightXLarge": {
-      "value": "20px",
+      "value": "1.25rem",
       "type": "lineHeights",
-      "description": "1.25rem"
+      "description": "20px"
     },
     "RideLineHeight2XLarge": {
-      "value": "24px",
+      "value": "1.5rem",
       "type": "lineHeights",
-      "description": "1.5rem"
+      "description": "24px"
     },
     "RideLineHeight3XLarge": {
-      "value": "32px",
+      "value": "2rem",
       "type": "lineHeights",
-      "description": "2rem"
+      "description": "32px"
     },
     "RideLineHeight4XLarge": {
-      "value": "40px",
+      "value": "2.5rem",
       "type": "lineHeights",
-      "description": "2.5rem"
+      "description": "40px"
     },
     "RideLineHeight5XLarge": {
-      "value": "44px",
+      "value": "2.75rem",
       "type": "lineHeights",
-      "description": "2.75rem"
+      "description": "44px"
     },
     "RideLineHeight6XLarge": {
-      "value": "48px",
+      "value": "3rem",
       "type": "lineHeights",
-      "description": "3rem"
+      "description": "48px"
     },
     "RideLineHeight7XLarge": {
-      "value": "56px",
+      "value": "3.5rem",
       "type": "lineHeights",
-      "description": "3.5rem"
+      "description": "56px"
     },
     "RideLineHeight8XLarge": {
-      "value": "64px",
+      "value": "4rem",
       "type": "lineHeights",
-      "description": "4rem"
+      "description": "64px"
     },
     "RideLineHeight9XLarge": {
-      "value": "72px",
+      "value": "4.5rem",
       "type": "lineHeights",
-      "description": "4.5rem"
+      "description": "72px"
     },
     "RideLineHeight10XLarge": {
-      "value": "96px",
+      "value": "6rem",
       "type": "lineHeights",
-      "description": "6rem"
+      "description": "96px"
     },
     "RideLineHeight11XLarge": {
-      "value": "128px",
+      "value": "8rem",
       "type": "lineHeights",
-      "description": "8rem"
+      "description": "128px"
     },
     "RideLetterSpacingSmall": {
-      "value": "1px",
+      "value": "0.063rem",
       "type": "letterSpacing",
-      "description": "0.063rem"
+      "description": "1px"
     },
     "RideLetterSpacingMedium": {
-      "value": "0.4px",
+      "value": "0.025rem",
       "type": "letterSpacing",
-      "description": "0.025rem"
+      "description": "0.4px"
     },
     "RideLetterSpacingLarge": {
-      "value": "0.2px",
+      "value": "0.013rem",
       "type": "letterSpacing",
-      "description": "0.013rem"
+      "description": "0.2px"
     },
     "RideLetterSpacingXLarge": {
-      "value": "0.1px",
+      "value": "0.006rem",
       "type": "letterSpacing",
-      "description": "0.006rem"
+      "description": "0.1px"
     },
     "RideLetterSpacing2XLarge": {
-      "value": "0px",
+      "value": "0rem",
       "type": "letterSpacing",
-      "description": "0rem"
+      "description": "0px"
     },
     "RideLetterSpacing3XLarge": {
-      "value": "-1px",
+      "value": "-0.063rem",
       "type": "letterSpacing",
-      "description": "-0.063rem"
+      "description": "-1px"
     },
     "RideFontSize8": {
       "value": "0.5rem",
@@ -200,115 +200,59 @@
       "value": "underline",
       "type": "textDecoration"
     },
-    "RideSpaceVertical4": {
+    "RideSpacing4": {
       "value": "0.25rem",
       "type": "spacing"
     },
-    "RideSpaceVertical8": {
+    "RideSpacing8": {
       "value": "0.5rem",
       "type": "spacing"
     },
-    "RideSpaceVertical12": {
+    "RideSpacing12": {
       "value": "0.75rem",
       "type": "spacing"
     },
-    "RideSpaceVertical16": {
+    "RideSpacing16": {
       "value": "1rem",
       "type": "spacing"
     },
-    "RideSpaceVertical20": {
+    "RideSpacing20": {
       "value": "1.25rem",
       "type": "spacing"
     },
-    "RideSpaceVertical24": {
+    "RideSpacing24": {
       "value": "1.5rem",
       "type": "spacing"
     },
-    "RideSpaceVertical32": {
+    "RideSpacing32": {
       "value": "2rem",
       "type": "spacing"
     },
-    "RideSpaceVertical40": {
+    "RideSpacing40": {
       "value": "2.5rem",
       "type": "spacing"
     },
-    "RideSpaceVertical48": {
+    "RideSpacing48": {
       "value": "3rem",
       "type": "spacing"
     },
-    "RideSpaceVertical56": {
+    "RideSpacing56": {
       "value": "3.5rem",
       "type": "spacing"
     },
-    "RideSpaceVertical64": {
+    "RideSpacing64": {
       "value": "4rem",
       "type": "spacing"
     },
-    "RideSpaceVertical80": {
+    "RideSpacing80": {
       "value": "5rem",
       "type": "spacing"
     },
-    "RideSpaceVertical96": {
+    "RideSpacing96": {
       "value": "6rem",
       "type": "spacing"
     },
-    "RideSpaceVertical112": {
-      "value": "7rem",
-      "type": "spacing"
-    },
-    "RideSpaceHorizontal4": {
-      "value": "0.25rem",
-      "type": "spacing"
-    },
-    "RideSpaceHorizontal8": {
-      "value": "0.5rem",
-      "type": "spacing"
-    },
-    "RideSpaceHorizontal12": {
-      "value": "0.75rem",
-      "type": "spacing"
-    },
-    "RideSpaceHorizontal16": {
-      "value": "1rem",
-      "type": "spacing"
-    },
-    "RideSpaceHorizontal20": {
-      "value": "1.25rem",
-      "type": "spacing"
-    },
-    "RideSpaceHorizontal24": {
-      "value": "1.5rem",
-      "type": "spacing"
-    },
-    "RideSpaceHorizontal32": {
-      "value": "2rem",
-      "type": "spacing"
-    },
-    "RideSpaceHorizontal40": {
-      "value": "2.5rem",
-      "type": "spacing"
-    },
-    "RideSpaceHorizontal48": {
-      "value": "3rem",
-      "type": "spacing"
-    },
-    "RideSpaceHorizontal56": {
-      "value": "3.5rem",
-      "type": "spacing"
-    },
-    "RideSpaceHorizontal64": {
-      "value": "4rem",
-      "type": "spacing"
-    },
-    "RideSpaceHorizontal80": {
-      "value": "5rem",
-      "type": "spacing"
-    },
-    "RideSpaceHorizontal96": {
-      "value": "6rem",
-      "type": "spacing"
-    },
-    "RideSpaceHorizontal112": {
+    "RideSpacing112": {
       "value": "7rem",
       "type": "spacing"
     },
@@ -422,23 +366,23 @@
     },
     "RideBlur4": {
       "value": "blur(2px)",
-      "type": "Blur"
+      "type": "blur"
     },
     "RideBlur10": {
       "value": "blur(5px)",
-      "type": "Blur"
+      "type": "blur"
     },
     "RideBlur16": {
       "value": "blur(8px)",
-      "type": "Blur"
+      "type": "blur"
     },
     "RideBlur160": {
       "value": "blur(80px)",
-      "type": "Blur"
+      "type": "blur"
     },
     "RideBlur240": {
       "value": "blur(120px)",
-      "type": "Blur"
+      "type": "blur"
     },
     "RideGlyphSmall": {
       "value": "12px",
@@ -508,29 +452,29 @@
       "value": "384px",
       "type": "sizing"
     },
-    "RideTextTransformUppercase": {
-      "value": "uppercase",
-      "type": "textCase"
-    },
-    "RideTextTransformNone": {
-      "value": "none",
-      "type": "textCase"
-    },
-    "RideFontFamily01": {
+    "RideFontFamilyPrimary": {
       "value": "BR Sonoma",
       "type": "fontFamilies"
     },
-    "RideFontFamily02": {
+    "RideFontFamilySecondary": {
       "value": "Rimac",
       "type": "fontFamilies"
     },
     "RideFontStyleNormal": {
       "value": "normal",
-      "type": "Font Style"
+      "type": "fontStyle"
     },
     "RideFontStyleItalic": {
       "value": "italic",
-      "type": "Font Style"
+      "type": "fontStyle"
+    },
+    "RideTextTransformUppercase": {
+      "value": "uppercase",
+      "type": "textTransform"
+    },
+    "RideTextTransformNone": {
+      "value": "none",
+      "type": "textTransform"
     }
   },
   "$themes": [],

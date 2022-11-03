@@ -297,50 +297,22 @@
       "type": "borderWidth"
     },
     "RideShadowSmall": {
-      "value": {
-        "x": "0px",
-        "y": "1px",
-        "blur": "8px",
-        "spread": "0px",
-        "color": "rgba(13, 25, 133, 0.08)",
-        "type": "dropShadow"
-      },
+      "value": "0px 1px 8px 0px rgba(13, 25, 133, 0.08)",
       "type": "boxShadow",
       "description": "Searchbar, tooltips."
     },
     "RideShadowMedium": {
-      "value": {
-        "x": "0px",
-        "y": "2px",
-        "blur": "20px",
-        "spread": "0px",
-        "color": "rgba(13, 25, 133, 0.12)",
-        "type": "dropShadow"
-      },
+      "value": "0px 2px 20px 0px rgba(13, 25, 133, 0.12)",
       "type": "boxShadow",
       "description": "bar, menús top."
     },
     "RideShadowLarge": {
-      "value": {
-        "x": "0px",
-        "y": "8px",
-        "blur": "28px",
-        "spread": "0px",
-        "color": "rgba(13, 25, 133, 0.16)",
-        "type": "dropShadow"
-      },
+      "value": "0px 8px 28px 0px rgba(13, 25, 133, 0.16)",
       "type": "boxShadow",
       "description": "Searchbar, tooltips."
     },
     "RideShadowXLarge": {
-      "value": {
-        "x": "0px",
-        "y": "12px",
-        "blur": "56px",
-        "spread": "0px",
-        "color": "rgba(13, 25, 133, 0.2)",
-        "type": "dropShadow"
-      },
+      "value": "0px 12px 56px 0px rgba(13, 25, 133, 0.2)",
       "type": "boxShadow",
       "description": "Cards sobre fondo con bastante contenido."
     },

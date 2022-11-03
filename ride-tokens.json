@@ -523,6 +523,14 @@
     "RideFontFamily02": {
       "value": "Rimac",
       "type": "fontFamilies"
+    },
+    "RideFontStyleNormal": {
+      "value": "normal",
+      "type": "other"
+    },
+    "RideFontStyleItalic": {
+      "value": "italic",
+      "type": "other"
     }
   },
   "$themes": [],

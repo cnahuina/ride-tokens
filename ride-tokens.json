@@ -422,23 +422,23 @@
     },
     "RideBlur4": {
       "value": "blur(2px)",
-      "type": "blur"
+      "type": "Blur"
     },
     "RideBlur10": {
       "value": "blur(5px)",
-      "type": "blur"
+      "type": "Blur"
     },
     "RideBlur16": {
       "value": "blur(8px)",
-      "type": "blur"
+      "type": "Blur"
     },
     "RideBlur160": {
       "value": "blur(80px)",
-      "type": "blur"
+      "type": "Blur"
     },
     "RideBlur240": {
       "value": "blur(120px)",
-      "type": "blur"
+      "type": "Blur"
     },
     "RideGlyphSmall": {
       "value": "12px",
@@ -526,11 +526,11 @@
     },
     "RideFontStyleNormal": {
       "value": "normal",
-      "type": "other"
+      "type": "Font Style"
     },
     "RideFontStyleItalic": {
       "value": "italic",
-      "type": "other"
+      "type": "Font Style"
     }
   },
   "$themes": [],

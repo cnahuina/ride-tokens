@@ -1,13 +1,5 @@
 {
   "GlobalTokens": {
-    "RideFontStyleNormal": {
-      "value": "normal",
-      "type": "fontStyle"
-    },
-    "RideFontStyleItalic": {
-      "value": "italic",
-      "type": "fontStyle"
-    },
     "RideFontWeightLight": {
       "value": "300",
       "type": "fontWeights"
@@ -450,51 +442,51 @@
     },
     "RideGlyphSmall": {
       "value": "12px",
-      "type": "graphic"
+      "type": "sizing"
     },
     "RideGlyphMedium": {
       "value": "16px",
-      "type": "graphic"
+      "type": "sizing"
     },
     "RideGlyphLarge": {
       "value": "20px",
-      "type": "graphic"
+      "type": "sizing"
     },
     "RideGlyphXLarge": {
       "value": "24px",
-      "type": "graphic"
+      "type": "sizing"
     },
     "RideGlyph2XLarge": {
       "value": "32px",
-      "type": "graphic"
+      "type": "sizing"
     },
     "RideIconSmall": {
       "value": "48px",
-      "type": "graphic"
+      "type": "sizing"
     },
     "RideIconMedium": {
       "value": "56px",
-      "type": "graphic"
+      "type": "sizing"
     },
     "RideIconLarge": {
       "value": "64px",
-      "type": "graphic"
+      "type": "sizing"
     },
     "RideFullIconSmall": {
       "value": "72px",
-      "type": "graphic"
+      "type": "sizing"
     },
     "RideFullIconMedium": {
       "value": "80px",
-      "type": "graphic"
+      "type": "sizing"
     },
     "RideFullIconLarge": {
       "value": "88px",
-      "type": "graphic"
+      "type": "sizing"
     },
     "RideFullIconXLarge": {
       "value": "96px",
-      "type": "graphic"
+      "type": "sizing"
     },
     "RideGridSmall": {
       "value": "384px",
@@ -525,16 +517,12 @@
       "type": "textCase"
     },
     "RideFontFamily01": {
-      "value": {
-        "fontFamily": "BR Sonoma"
-      },
-      "type": "typography"
+      "value": "BR Sonoma",
+      "type": "fontFamilies"
     },
     "RideFontFamily02": {
-      "value": {
-        "fontFamily": "Rimac"
-      },
-      "type": "typography"
+      "value": "Rimac",
+      "type": "fontFamilies"
     }
   },
   "$themes": [],

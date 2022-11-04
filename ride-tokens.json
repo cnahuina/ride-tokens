@@ -1,5 +1,5 @@
 {
-  "GlobalTokens": {
+  "gt": {
     "RideFontWeightLight": {
       "value": "300",
       "type": "fontWeights"
@@ -449,10 +449,127 @@
       "type": "textTransform"
     }
   },
+  "rt": {
+    "RideFontWeightLight": {
+      "value": "300",
+      "type": "fontWeights"
+    },
+    "RideFontWeightRegular": {
+      "value": "400",
+      "type": "fontWeights"
+    },
+    "RideFontWeightMedium": {
+      "value": "500",
+      "type": "fontWeights"
+    }
+  },
+  "et": {
+    "RideFontWeightLight": {
+      "value": "300",
+      "type": "fontWeights"
+    },
+    "RideFontWeightRegular": {
+      "value": "400",
+      "type": "fontWeights"
+    },
+    "RideFontWeightMedium": {
+      "value": "500",
+      "type": "fontWeights"
+    },
+    "RideFontWeightSemiBold": {
+      "value": "600",
+      "type": "fontWeights"
+    },
+    "RideFontWeightBold": {
+      "value": "700",
+      "type": "fontWeights"
+    },
+    "RideFontWeightDisplay": {
+      "value": "display",
+      "type": "fontWeights"
+    },
+    "RideLineHeightSmall": {
+      "value": "0.625rem",
+      "type": "lineHeights",
+      "description": "10px"
+    },
+    "RideLineHeightMedium": {
+      "value": "0.75rem",
+      "type": "lineHeights",
+      "description": "12px"
+    },
+    "RideLineHeightLarge": {
+      "value": "1rem",
+      "type": "lineHeights",
+      "description": "16px"
+    },
+    "RideLineHeightXLarge": {
+      "value": "1.25rem",
+      "type": "lineHeights",
+      "description": "20px"
+    },
+    "RideLineHeight2XLarge": {
+      "value": "1.5rem",
+      "type": "lineHeights",
+      "description": "24px"
+    },
+    "RideLineHeight3XLarge": {
+      "value": "2rem",
+      "type": "lineHeights",
+      "description": "32px"
+    },
+    "RideLineHeight4XLarge": {
+      "value": "2.5rem",
+      "type": "lineHeights",
+      "description": "40px"
+    },
+    "RideLineHeight5XLarge": {
+      "value": "2.75rem",
+      "type": "lineHeights",
+      "description": "44px"
+    },
+    "RideLineHeight6XLarge": {
+      "value": "3rem",
+      "type": "lineHeights",
+      "description": "48px"
+    },
+    "RideLineHeight7XLarge": {
+      "value": "3.5rem",
+      "type": "lineHeights",
+      "description": "56px"
+    },
+    "RideLineHeight8XLarge": {
+      "value": "4rem",
+      "type": "lineHeights",
+      "description": "64px"
+    },
+    "RideLineHeight9XLarge": {
+      "value": "4.5rem",
+      "type": "lineHeights",
+      "description": "72px"
+    },
+    "RideLineHeight10XLarge": {
+      "value": "6rem",
+      "type": "lineHeights",
+      "description": "96px"
+    },
+    "RideLineHeight11XLarge": {
+      "value": "8rem",
+      "type": "lineHeights",
+      "description": "128px"
+    },
+    "RideLetterSpacingSmall": {
+      "value": "0.063rem",
+      "type": "letterSpacing",
+      "description": "1px"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "GlobalTokens"
+      "gt",
+      "rt",
+      "et"
     ]
   }
 }
